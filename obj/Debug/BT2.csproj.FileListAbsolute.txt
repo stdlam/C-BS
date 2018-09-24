@@ -1,0 +1,6 @@
+D:\visualstudio_project\BT1\BT2\bin\Debug\BT2.exe.config
+D:\visualstudio_project\BT1\BT2\bin\Debug\BT2.exe
+D:\visualstudio_project\BT1\BT2\bin\Debug\BT2.pdb
+D:\visualstudio_project\BT1\BT2\obj\Debug\BT2.exe
+D:\visualstudio_project\BT1\BT2\obj\Debug\BT2.pdb
+D:\visualstudio_project\BT1\BT2\obj\Debug\BT2.csprojResolveAssemblyReference.cache
